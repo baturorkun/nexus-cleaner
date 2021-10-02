@@ -2,9 +2,11 @@
 
 ### Clean your unused Docker Images
 
-Script Name:  cleaner.sh
+######Script Name:  
 
-Parameters:
+**cleaner.sh**
+
+######Parameters:
 
 * **--nexus-user** : Admin Username
 * **--nexus-passwd** : Admin Username Passwd

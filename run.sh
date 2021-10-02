@@ -1,3 +1,6 @@
+#!/bin/bash
+set -euo pipefail
+
 ./cleaner.sh \
   --nexus-user="admin" \
   --nexus-passwd="admnin-passwd" \
